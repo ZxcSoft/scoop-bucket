@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/zufuliu/notepad2/releases/download/v4.23.04r4766/Notepad2_HD_i18n_AVX2_v4.23.04r4766.zip",
-            "hash": "b05653f6da442a6dfadfb972c8098e7a7b9a14647fa7a96607e47564f5a9e594"
+            "hash": "4635407c57937e685c6198f3904151ef512643f94f52d23f79c3e0ce041be114"
         }
     },
     "bin": "notepad2.exe",
