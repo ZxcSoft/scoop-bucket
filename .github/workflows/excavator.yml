@@ -13,5 +13,5 @@ jobs:
       - name: Excavate
         uses: ScoopInstaller/GithubActions@main
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           SKIP_UPDATED: 1
