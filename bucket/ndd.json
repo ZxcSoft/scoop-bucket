@@ -7,10 +7,10 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/cxasm/notepad--/releases/download/notepad-v2.18/Notepad--v2.18.0-win10-portable.zip",
-            "hash": "83a9e79b1b3e5a49cc472b5f88879c12b4f84961297815f9cc1920458e3e407f"
+            "hash": "83a9e79b1b3e5a49cc472b5f88879c12b4f84961297815f9cc1920458e3e407f",
+            "extract_dir": "Notepad--v$version.0-win10-portable"
         }
     },
-    "pre_install": "cd Notepad--v$version.0-win10-portable",
     "bin": "Notepad--.exe",
     "shortcuts": [
         [
