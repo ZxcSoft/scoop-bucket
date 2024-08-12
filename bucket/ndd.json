@@ -12,7 +12,7 @@
     },
     "installer": {
         "script": [
-            "Move-Item \"$dir\Notepad--v$version.0-win10-portable\\*" \"$dir\\..\" -Force"
+            "Move-Item \"$dir\\Notepad--v$version.0-win10-portable\\*\" \"$dir\\.\" -Force"
         ]
     },
     "bin": "Notepad--.exe",
