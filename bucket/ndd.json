@@ -10,6 +10,7 @@
             "hash": "83a9e79b1b3e5a49cc472b5f88879c12b4f84961297815f9cc1920458e3e407f"
         }
     },
+    "pre_install": "cd Notepad--v$version.0-win10-portable",
     "bin": "Notepad--.exe",
     "shortcuts": [
         [
